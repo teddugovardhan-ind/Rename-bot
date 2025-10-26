@@ -39,21 +39,21 @@ class Config(object):
 
 class Txt(object):
     # part of text configuration
-    START_TXT = """<b>Hᴀɪ {} 👋,
+    START_TXT = """<b> Hᴀɪ {} 👋,
 Tʜɪs Is Aɴ Aᴅᴠᴀɴᴄᴇᴅ Aɴᴅ Yᴇᴛ Pᴏᴡᴇʀꜰᴜʟ Rᴇɴᴀᴍᴇ Bᴏᴛ
 Usɪɴɢ Tʜɪs Bᴏᴛ Yᴏᴜ Cᴀɴ Rᴇɴᴀᴍᴇ & Cʜᴀɴɢᴇ Tʜᴜᴍʙɴᴀɪʟ Oꜰ Yᴏᴜʀ Fɪʟᴇ
 Yᴏᴜ Cᴀɴ Aʟsᴏ Cᴏɴᴠᴇʀᴛ Vɪᴅᴇᴏ Tᴏ Fɪʟᴇ & Fɪʟᴇ Tᴏ Vɪᴅᴇᴏ
-Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ</b>
+Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ </b>
 """
 
     ABOUT_TXT = """<b>╭───────────⍟
 • ᴍy ɴᴀᴍᴇ : {}
-• ᴘʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/ind_gamer_1>༄ᶦᶰᵈ᭄✿Gᴀᴍᴇʀ࿐</a>
-• ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/All_animes_in_teluguu_vs>༄ᶦᶰᵈ᭄✿Gᴀᴍᴇʀ࿐</a> 
-• ᴍᴏᴠɪᴇs : <a href=https://t.me/All_animes_in_telugu_vs>༄ᶦᶰᵈ᭄✿Gᴀᴍᴇʀ࿐</a>
-• sᴇʀɪᴇs : <a href=https://t.me/All_animes_in_teluguu_vs>༄ᶦᶰᵈ᭄✿Gᴀᴍᴇʀ࿐</a>
-• ᴀɴɪᴍᴇ: <a href=https://t.me/All_animes_in_teluguu_vs>༄ᶦᶰᵈ᭄✿Gᴀᴍᴇʀ࿐</a>
-• ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/All_animes_in_telugu_Go>༄ᶦᶰᵈ᭄✿Gᴀᴍᴇʀ࿐</a>
+• ᴘʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/ind_gamer_1>Govar</a>
+• ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/All_animes_in_teluguu_vs>Govar</a> 
+• ᴍᴏᴠɪᴇs : <a href=https://t.me/All_animes_in_telugu_vs>Govar</a>
+• sᴇʀɪᴇs : <a href=https://t.me/All_animes_in_teluguu_vs>Govar</a>
+• ᴀɴɪᴍᴇ: <a href=https://t.me/All_animes_in_teluguu_vs>Govar</a>
+• ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/All_animes_in_telugu_Go>Govar</a>
 • ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://All_animes_in_telugu_Go>Neku andhu ku</a>
 ╰───────────────⍟ """
 
