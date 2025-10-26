@@ -43,18 +43,18 @@ class Txt(object):
 Tʜɪs Is Aɴ Aᴅᴠᴀɴᴄᴇᴅ Aɴᴅ Yᴇᴛ Pᴏᴡᴇʀꜰᴜʟ Rᴇɴᴀᴍᴇ Bᴏᴛ
 Usɪɴɢ Tʜɪs Bᴏᴛ Yᴏᴜ Cᴀɴ Rᴇɴᴀᴍᴇ & Cʜᴀɴɢᴇ Tʜᴜᴍʙɴᴀɪʟ Oꜰ Yᴏᴜʀ Fɪʟᴇ
 Yᴏᴜ Cᴀɴ Aʟsᴏ Cᴏɴᴠᴇʀᴛ Vɪᴅᴇᴏ Tᴏ Fɪʟᴇ & Fɪʟᴇ Tᴏ Vɪᴅᴇᴏ
-Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ
+Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ</b>
 """
 
     ABOUT_TXT = """<b>╭───────────⍟
 • ᴍy ɴᴀᴍᴇ : {}
-• ᴘʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/sewxiy>ᴍɪᴋᴇʏ</a>
-• ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/otakuflix_network>ᴏᴛᴀᴋᴜғʟɪx</a> 
-• ᴍᴏᴠɪᴇs : <a href=https://t.me/movieflix_original>ᴍᴏᴠɪᴇғʟɪx</a>
-• sᴇʀɪᴇs : <a href=https://t.me/seriesflix_original>sᴇʀɪᴇsғʟɪx</a>
-• ᴀɴɪᴍᴇ: <a href=https://t.me/anime_cruise_netflix>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
-• ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/weebzonex>ᴡᴇᴇʙᴢᴏɴᴇ</a>
-• ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://codeflix_bots>ᴠᴘs</a>
+• ᴘʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/ind_gamer_1>༄ᶦᶰᵈ᭄✿Gᴀᴍᴇʀ࿐</a>
+• ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/All_animes_in_teluguu_vs>༄ᶦᶰᵈ᭄✿Gᴀᴍᴇʀ࿐</a> 
+• ᴍᴏᴠɪᴇs : <a href=https://t.me/All_animes_in_telugu_vs>༄ᶦᶰᵈ᭄✿Gᴀᴍᴇʀ࿐</a>
+• sᴇʀɪᴇs : <a href=https://t.me/All_animes_in_teluguu_vs>༄ᶦᶰᵈ᭄✿Gᴀᴍᴇʀ࿐</a>
+• ᴀɴɪᴍᴇ: <a href=https://t.me/All_animes_in_teluguu_vs>༄ᶦᶰᵈ᭄✿Gᴀᴍᴇʀ࿐</a>
+• ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/All_animes_in_telugu_Go>༄ᶦᶰᵈ᭄✿Gᴀᴍᴇʀ࿐</a>
+• ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://All_animes_in_telugu_Go>Neku andhu ku</a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -88,7 +88,7 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 ◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @team_netflix" -metadata author="@Codeflix_bots" -metadata:s:s title="Subtitled By :- @Team_netflix" -metadata:s:a title="By :- @team_netflix" -metadata:s:v title="By:- @Codeflix_bots" </code>
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Codeflix_bots
+<b>📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @ind_gamer_1</b>
 """
 
     PROGRESS_BAR = """<b>\n
