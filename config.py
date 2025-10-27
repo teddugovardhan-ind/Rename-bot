@@ -39,14 +39,14 @@ class Config(object):
 
 class Txt(object):
     # part of text configuration
-    START_TXT = """<b> Hᴀɪ {} 👋,
+    START_TXT = """<blockquote><b> Hᴀɪ {} 👋,
 Tʜɪs Is Aɴ Aᴅᴠᴀɴᴄᴇᴅ Aɴᴅ Yᴇᴛ Pᴏᴡᴇʀꜰᴜʟ Rᴇɴᴀᴍᴇ Bᴏᴛ
 Usɪɴɢ Tʜɪs Bᴏᴛ Yᴏᴜ Cᴀɴ Rᴇɴᴀᴍᴇ & Cʜᴀɴɢᴇ Tʜᴜᴍʙɴᴀɪʟ Oꜰ Yᴏᴜʀ Fɪʟᴇ
 Yᴏᴜ Cᴀɴ Aʟsᴏ Cᴏɴᴠᴇʀᴛ Vɪᴅᴇᴏ Tᴏ Fɪʟᴇ & Fɪʟᴇ Tᴏ Vɪᴅᴇᴏ
-Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ </b>
+Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ </b></blockquote>
 """
 
-    ABOUT_TXT = """<b>╭───────────⍟
+    ABOUT_TXT = """<blockquote><b>╭───────────⍟
 • ᴍy ɴᴀᴍᴇ : {}
 • ᴘʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/ind_gamer_1>Govar</a>
 • ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/All_animes_in_teluguu_vs>Govar</a> 
@@ -55,14 +55,14 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 • ᴀɴɪᴍᴇ: <a href=https://t.me/All_animes_in_teluguu_vs>Govar</a>
 • ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/All_animes_in_telugu_Go>Govar</a>
 • ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://All_animes_in_telugu_Go>Neku andhu ku</a>
-╰───────────────⍟ """
+╰───────────────⍟</b></blockquote>"""
 
     HELP_TXT = """
 🌌 <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴɪʟᴇ</u></b>
   
-<b>•></b> /start Tʜᴇ Bᴏᴛ Aɴᴅ Sᴇɴᴅ Aɴy Pʜᴏᴛᴏ Tᴏ Aᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟy Sᴇᴛ Tʜᴜᴍʙɴɪʟᴇ.
-<b>•></b> /del_thumb Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ Tᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Oʟᴅ Tʜᴜᴍʙɴɪʟᴇ.
-<b>•></b> /view_thumb Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ Tᴏ Vɪᴇᴡ Yᴏᴜʀ Cᴜʀʀᴇɴᴛ Tʜᴜᴍʙɴɪʟᴇ.
+<blockquote><b>•> /start Tʜᴇ Bᴏᴛ Aɴᴅ Sᴇɴᴅ Aɴy Pʜᴏᴛᴏ Tᴏ Aᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟy Sᴇᴛ Tʜᴜᴍʙɴɪʟᴇ.</b></blockquote>
+<blockquote><b>•> /del_thumb Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ Tᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Oʟᴅ Tʜᴜᴍʙɴɪʟᴇ.</b></blockquote>
+<blockquote><b>•> /view_thumb Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ Tᴏ Vɪᴇᴡ Yᴏᴜʀ Cᴜʀʀᴇɴᴛ Tʜᴜᴍʙɴɪʟᴇ.</b></blockquote>
 
 
 📑 <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Cᴜꜱᴛᴏᴍ Cᴀᴩᴛɪᴏɴ</u></b>
@@ -78,7 +78,7 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
 
 
-<b>➜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:</b> <a href=https://t.me/All_animes_in_teluguu_vs>Anime channel</a>
+<blockquote><b>➜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:<a href=https://t.me/All_animes_in_teluguu_vs>Govarx</a></b></blockquote>
 """
 
     SEND_METADATA = """
@@ -88,13 +88,13 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 ◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @ind_gamer_1" -metadata author="@ind_gamer_1" -metadata:s:s title="Subtitled By :- @ind_gamer_1" -metadata:s:a title="By :- @ind_gamer_1" -metadata:s:v title="By:- @ind_gamer_1" </code>
 
-📥Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @ind_gamer_1
+<blockquote><b>📥Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @ind_gamer_1</b></blockquote>
 """
 
-    PROGRESS_BAR = """<b>\n
+    PROGRESS_BAR = """<blockquote><b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱➜
 ➜ 🗃️ sɪᴢᴇ: {1} | {2}
 ➜ ⏳️ ᴅᴏɴᴇ : {0}%
 ➜ 🚀 sᴘᴇᴇᴅ: {3}/s
 ➜ ⏰️ ᴇᴛᴀ: {4}
-╰━━━━━━━━━━━━━━━➜ </b>"""
+╰━━━━━━━━━━━━━━━➜ </b></blockquote>"""
